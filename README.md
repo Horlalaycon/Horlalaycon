@@ -5,16 +5,15 @@
 
 - ⚡ Fun fact: Coding is life.
 
+
+# 📊 GitHub Stats:
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Horlalaycon)  
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Horlalaycon&show_icons=true)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Horlalaycon&theme=blue-green)
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Horlalaycon&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Horlalaycon&theme=prussian&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Horlalaycon&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 <!---
