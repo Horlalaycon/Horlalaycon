@@ -5,13 +5,13 @@
 
 - ⚡ Fun fact: Coding is life.
 
-<h5>
+<p>
 profile = {
-   "username" : "Horlalaycon",
+   "username" : "Horlalaycon",<br>
    "interested in" : "Developing Python programs and Bash-Shell automation scripts",
    "fun fact" : "You will be Hacked"
 }
-</h5>
+</p>
 
 
 # 📊 GitHub Stats:
