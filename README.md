@@ -5,6 +5,10 @@
 
 - ⚡ Fun fact: Coding is life.
 
+"""
+def profile()
+"""
+
 
 # 📊 GitHub Stats:
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Horlalaycon)  
