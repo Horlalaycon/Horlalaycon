@@ -6,7 +6,11 @@
 - ⚡ Fun fact: Coding is life.
 
 <h3>
-def profile()
+profile= {
+   "username" : "Horlalaycon",
+   "interested in" : "Developing Python programs and Bash-Shell automation scripts",
+   "fun fact" : "You will be Hacked"
+}
 </h3>
 
 
