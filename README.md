@@ -5,6 +5,10 @@
 
 - ⚡ Fun fact: Coding is life.
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=LarsRosenkilde)  
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Horlalaycon&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Horlalaycon&theme=blue-green)
+
 
 
 # 📊 GitHub Stats:
