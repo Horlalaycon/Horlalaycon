@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Horlalaycon
-- 👀 I’m interested in Python and Bash Shell Scripting
+- 👀 I’m interested in Python and Bash-Shell Scripting
 - 💞️ I’m looking to collaborate on python projects...
 
-- ⚡ Fun fact: Love coding
+- ⚡ Fun fact: Coding is life.
 
 <!---
 Horlalaycon/Horlalaycon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
