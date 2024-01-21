@@ -6,10 +6,10 @@
 - ⚡ Fun fact: Coding is life.
 
 <p>
-profile = {
-   "username" : "Horlalaycon",<br>
-   "interested in" : "Developing Python programs and Bash-Shell automation scripts",
-   "fun fact" : "You will be Hacked"
+profile = {<br>
+   "username" : "Horlalaycon", <br>
+   "interested in" : "Developing Python programs and Bash-Shell automation scripts", <br>
+   "fun fact" : "You will be Hacked" <br>
 }
 </p>
 
