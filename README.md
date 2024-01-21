@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Horlalaycon
-- 👀 I’m interested in python and bash shell scipting
+- 👀 I’m interested in Python and Bash Shell Scripting
 - 💞️ I’m looking to collaborate on python projects...
 
 - ⚡ Fun fact: Love coding
