@@ -5,14 +5,12 @@
 
 - ⚡ Fun fact: Coding is life.
 
-<p>
-profile = {<br>
-   "username" : "Horlalaycon", <br>
-   "interested in" : "Developing Python programs and Bash-Shell automation scripts", <br>
-   "fun fact" : "You will be Hacked" <br>
-}
-</p>
 
+- profile = {
+-    "username" : "Horlalaycon",
+-    "Interests" : "Developing Python programs and Bash-Shell automation scripts",
+-    "Fun fact" : "You will be Hacked"
+}
 
 # 📊 GitHub Stats:
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Horlalaycon)  
