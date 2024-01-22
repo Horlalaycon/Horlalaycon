@@ -1,16 +1,8 @@
-
-- 👋 Hi, I’m @Horlalaycon
-- 👀 I’m interested in Python and Bash-Shell Scripting
-- 💞️ I’m looking to collaborate on python projects...
-
-- ⚡ Fun fact: Coding is life.
-
-
-- profile = {
--    "username" : "Horlalaycon",
--    "Interests" : "Developing Python programs and Bash-Shell automation scripts",
--    "Fun fact" : "You will be Hacked"
-}
+- Profile = {
+-   "👋 username" : "Hi, I’m @Horlalaycon",
+-   "👀 Interests" : "Developing Python programs and Bash-Shell automation scripts",
+-   "⚡ Fun fact" : "You will be Hacked"
+- }
 
 # 📊 GitHub Stats:
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Horlalaycon)  
