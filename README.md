@@ -1,8 +1,19 @@
-- Profile = {
--   "👋 username" : "Hi, I’m @Horlalaycon",
--   "👀 Interests" : "Developing Python programs and Bash-Shell automation scripts",
--   "⚡ Fun fact" : "You will be Hacked"
-- }
+<h3>
+
+```python
+from profile import AboutMe
+
+@AboutMe
+
+Profile = {
+"👋 username" : "Hi, I’m @Horlalaycon",
+"👀 Interests" : "Developing Python programs and Bash-Shell automation scripts",
+"⚡ Fun fact" : "You will be Hacked"
+}
+
+​
+```
+</h3>
 
 ------------------------------------------------------------------------------------
  ### My Github Stats
