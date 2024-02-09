@@ -8,7 +8,7 @@ from profile import AboutMe
 Profile = {
    "👋 Username" : "Hi, I’m @Horlalaycon",
    "👀 Interests" : "Python Programs and Bash-Shell automation scripts Development.",
-   "⚡ Fun fact" : "You will be Hacked"
+   "⚡ Fun fact" : "Python is interesting"
 }
 
 ​
