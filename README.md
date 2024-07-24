@@ -5,10 +5,10 @@ from profile import AboutMe
 
 @AboutMe
 
-Profile = {
+Profile it= {
    "👋 Username" : "Hi, I’m @Horlalaycon",
-   "👀 Interests" : "Python Programs and Bash-Shell automation scripts Development.",
-   "⚡ Fun fact" : "Python is interesting"
+   "👀 Interests" : "I love finding ways to ask computers to do things they aren't supposed to do.",
+   "⚡ Fun fact" : "You can always think outside the box"
 }
 
 ​
