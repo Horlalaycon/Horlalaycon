@@ -8,7 +8,7 @@ from profile import AboutMe
 Profile it= {
    "👋 Username" : "Hi, I’m @Horlalaycon",
    "👀 Interests" : "I love finding ways to ask computers to do things they aren't supposed to do.",
-   "⚡ Fun fact" : "You can always think outside the box"
+   "⚡ Fun fact" : "Security is an illusion"
 }
 
 ​
