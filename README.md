@@ -6,7 +6,7 @@ from profile import AboutMe
 @AboutMe
 
 Profile it= {
-   "👋 Username" : "Hi, I’m @Horlalaycon",
+   "👋 Name" : "Hi, I’m Ibrahim Ajimati",
    "👀 Interests" : "I love finding ways to ask computers to do things they aren't supposed to do.",
    "⚡ Fun fact" : "Security is an illusion"
 }
