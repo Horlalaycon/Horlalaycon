@@ -7,7 +7,7 @@ from profile import AboutMe
 
 Profile it= {
    "👋 Name" : "Hi, I’m Ibrahim Ajimati",
-   "👀 Interests" : "I love finding ways to ask computers to do things they aren't supposed to do.",
+   "👀 Whoami" : "I'm a tinkerer with a curious mind, always looking for new and innovative ways to push the boundaries of what's possible with technology.",
    "⚡ Fun fact" : "Security is an illusion"
 }
 
